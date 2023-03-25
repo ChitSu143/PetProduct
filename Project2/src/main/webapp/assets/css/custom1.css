@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+#adminForm{
+  
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 800px;
+  height: 500px;
+  
+  border-radius: 3px;
+}

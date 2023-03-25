@@ -1,0 +1,8 @@
+<Context>
+<Resource name="jdbc/PetProductProject"
+auth="Container" type="javax.sql.DataSource"
+maxActive="30" maxIdle="6" maxWaitTime="10000"
+username="root" password="root" 
+driverClassName="com.mysql.cj.jdbc.Driver"
+url="jdbc:mysql://localhost:3306/petdb"/>
+</Context>
